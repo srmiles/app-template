@@ -1,2 +1,2 @@
-# app-templage
+# app-template
 Application Template
